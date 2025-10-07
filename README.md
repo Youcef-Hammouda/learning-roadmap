@@ -2,7 +2,7 @@
 
 # 👋 Salut, je suis Youcef HAMMOUDA
 
-Ingénieure Réseaux & Sécurité (8+ ans d’expérience), spécialisé dans les environnements Fortinet SD-WAN (FGT, FMG, FAZ).  
+Ingénieur Réseaux & Sécurité (8+ ans d’expérience), spécialisé dans les environnements Fortinet SD-WAN (FGT, FMG, FAZ).  
 Actuellement, j’élargis mes compétences vers le **Cloud**, l’**Automatisation Réseau** et la **Sécurité Cloud (DevSecOps)**.
 
 ---
