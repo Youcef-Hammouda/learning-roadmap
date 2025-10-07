@@ -7,7 +7,7 @@ Actuellement, j’élargis mes compétences vers le **Cloud**, l’**Automatisat
 
 ---
 
-## 🎯 Objectif 2025
+## 🎯 Objectif 
 - 🌩️ Maîtriser AWS & Terraform  
 - 🤖 Automatiser le réseau avec Python / Ansible  
 - ☁️ Comprendre les architectures SASE & Cloud Security  
