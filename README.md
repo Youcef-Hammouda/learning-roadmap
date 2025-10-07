@@ -31,5 +31,5 @@ Actuellement, j’élargis mes compétences vers le **Cloud**, l’**Automatisat
 ---
 
 ## 🌐 Me contacter
-- 💼 [LinkedIn][https://fr.linkedin.com/in/youcefhammouda]
+- 💼 [LinkedIn](https://fr.linkedin.com/in/youcefhammouda)
 - ✉️ Email : hammyoucef@gmail.com
